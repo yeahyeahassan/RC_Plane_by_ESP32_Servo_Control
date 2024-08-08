@@ -1,7 +1,5 @@
 # 🚀 RC Plane by ESP32 Servo Control
 
----
-
 ## 📚 Setup and Initialization
 
 In our setup, we're initializing four Servo objects:
