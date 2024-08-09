@@ -15,7 +15,10 @@ We define specific pins for each servo to ensure they are properly connected:
 - `servo4pin = 32` - Servo 4 begins at a 90-degree angle too.
 
 The communication with the ESP32 is handled through serial communication at a baud rate of `115200`. 🎛️
+---
 
+## RC Plane Image 
+![RC Plane Image](https://github.com/user-attachments/assets/c74f01d6-726f-4fc4-a174-512b8b90ea2c)
 ---
 
 ## ⚙️ Main Functions
